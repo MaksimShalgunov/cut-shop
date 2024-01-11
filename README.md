@@ -1,6 +1,6 @@
 # Installation
 
- - php artisan storage:link
- - php artisan migrate
+- composer install
+- php artisan shop:install
 
 # Deploy
