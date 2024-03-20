@@ -2,8 +2,8 @@
 
 namespace App\Providers;
 
-use App\Faker\FakerImageProvider;
 use App\Http\Kernel;
+use App\Support\Testing\FakerImageProvider;
 use Carbon\CarbonInterval;
 use Faker\Factory;
 use Faker\Generator;
